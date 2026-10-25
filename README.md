@@ -11,42 +11,42 @@ Power BI: Interactive dashboards, data modeling, and DAX
 Python: Data analysis and visualization
 Deep Mathematical and Statistical skills
 Projects
-1. Retail Sales Performance Analysis
+**1. Retail Sales Performance Analysis**
 
 Coming soon.
 
 Analyzing sales trends, revenue, profitability, and customer performance using Excel, SQL, and Power BI.
 
-2. Financial Performance Analysis
+**2. Financial Performance Analysis**
 
 Coming soon.
 
 Analyzing budgets, expenditure, and financial performance.
 
-3. Customer Analytics
+**3. Customer Analytics**
 
 Coming soon.
 
 Investigating customer purchasing behavior and retention.
 
-4. HR Analytics
+**4. HR Analytics**
 
 Coming soon.
 
 Exploring workforce composition and employee turnover.
 
-5. Monitoring, Evaluation and Learning Analytics
+**5. Monitoring, Evaluation and Learning Analytics**
 
 Coming soon.
 
 Analyzing programme indicators and performance against targets.
 
-Career Interests
+**Career Interests**
 Data Analyst
 Business Intelligence Analyst
 Reporting Analyst
 Monitoring and Evaluation Analyst
-Contact
+**Contact**
 Location: Kenya
 GitHub: Add your profile link here
 LinkedIn: Add your LinkedIn profile link here
